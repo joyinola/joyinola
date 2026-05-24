@@ -2,7 +2,7 @@
 
 I'm a software engineer and AI researcher with a passion for building technology that improves healthcare. My work sits at the intersection of **deep learning** and **medical imaging** i.e using computer vision to make diagnostic tools smarter, faster, and more accessible.
 
-When I'm not exploring AI, I build clean, scalable backend systems with FastAPI.
+When I'm not exploring AI, I build clean, scalable backend systems.
 
 ---
 
