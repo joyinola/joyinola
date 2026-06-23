@@ -1,4 +1,4 @@
-# Hi, I'm [Damilola]
+# Hi, I'm Damilola
 
 I'm an AI Engineer focused on productionizing machine learning inside high availability
 systems. My work sits at the intersection of **MLOps** and **applied AI for infrastructure**,
@@ -37,7 +37,6 @@ that keep AI systems honest in production.
 - 📉 [Failure Forecast](https://github.com/yourusername/failure-forecasting) - Time
   series failure prediction system using real production telemetry, comparing XGBoost
   and LSTM models with cost based threshold selection and drift monitoring.
-- ⚙️ [Project Name] - One line description of a third project if you have one.
 
 ---
 
