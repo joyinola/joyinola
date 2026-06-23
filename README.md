@@ -1,36 +1,49 @@
-# Hi, I'm Simbiat 
+# Hi, I'm [Damilola]
 
-I'm a software engineer and AI researcher with a passion for building technology that improves healthcare. My work sits at the intersection of **deep learning** and **medical imaging** i.e using computer vision to make diagnostic tools smarter, faster, and more accessible.
+I'm an AI Engineer focused on productionizing machine learning inside high availability
+systems. My work sits at the intersection of **MLOps** and **applied AI for infrastructure**,
+building systems that detect, explain, and predict failure before it costs uptime or money.
 
-When I'm not exploring AI, I build clean, scalable backend systems.
+When I'm not deep in model evaluation, I'm building the pipelines and monitoring layers
+that keep AI systems honest in production.
 
 ---
 
-### 🔬 Research Interests
-- AI-assisted diagnostics (Diabetic Retinopathy, Macular Edema, Low-Field MRI)
-- Uncertainty-aware deep learning models
-- Computer vision for clinical applications
+### 🔍 Research and Engineering Interests
+
+- Autonomous root cause analysis with locally hosted LLMs
+- Predictive failure detection and downtime reduction in production systems
+- Drift detection, model governance, and retraining automation
+- Retrieval augmented generation for operational and incident data
+
+---
 
 ### 🛠️ Tech I Work With
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-026A91?style=flat&logo=xgboost&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
-- 🩺 [AI-Supported DR & DME Screening](https://github.com/joyinola/AI-Supported-Diabetic-Retinopathy-Diabetic-Macular-Edema-Screening-) — Deep learning pipeline for retinal disease detection
-- 🧠 [Uncertainty-Aware MRI Reconstruction](https://github.com/joyinola/Uncertainty-Aware-Reconstruction-for-Low-Field-MRI-Scans) — Probabilistic models for low-field MRI enhancement
-- 🚗 [Django Ridesharing App](https://github.com/joyinola/Django-Ridesharing-App) — Real-time ridesharing platform with WebSockets & JWT auth
+
+- 🤖 [Payment RCA Agent](https://github.com/yourusername/payment-rca-agent) - Locally
+  hosted LLM agent for autonomous payment failure investigation, built with LangGraph,
+  Ollama, and ChromaDB, with zero external API dependency.
+- 📉 [Failure Forecast](https://github.com/yourusername/failure-forecasting) - Time
+  series failure prediction system using real production telemetry, comparing XGBoost
+  and LSTM models with cost based threshold selection and drift monitoring.
+- ⚙️ [Project Name] - One line description of a third project if you have one.
 
 ---
 
 ### 📫 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/damilolaadetoro)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:damilolaadetoro1@email.com)
 
 ---
-
-
